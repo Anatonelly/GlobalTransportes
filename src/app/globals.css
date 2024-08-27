@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.Cotacao {
+  display: none;
+  position: fixed;
+}
+.Whatsapp {
+  filter: drop-shadow(0 0 0.75rem #6ee7b790);
+}
+.Whatsapp:hover .Cotacao {
+  display: block;
+  position: fixed;
+}
+
+.slick-slide > div {
+  margin: 0 10px;
+}
+
+.slick-dots li.slick-active button:before {
+  color: orange !important;
+}
+
