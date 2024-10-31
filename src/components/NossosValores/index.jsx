@@ -32,7 +32,7 @@ const index = () => {
         Missão Visão e Valores
       </h2>
       <Card
-        image="https://ikmob.com/wp-content/uploads/2019/12/visao-empresa.jpg"
+        image="https://static.vecteezy.com/ti/vetor-gratis/p1/4639565-target-mission-vector-illustration-on-white-background-creative-icon-vetor.jpg"
         title="Missão"
         text="A empresa tem como objetivo primordial otimizar toda a cadeia de suprimentos, desde a coleta e armazenamento até a distribuição dos produtos, garantindo que cada etapa do processo seja executada com excelência.
 

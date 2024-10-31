@@ -52,7 +52,7 @@ const index = () => {
           Conheça nossos Clientes
         </h1>
       </div>
-      <Marquee pauseOnHover pauseOnClick autoFill>
+      <Marquee pauseOnHover pauseOnClick autoFill className="z-0">
         {Publis.map((publi, index) => (
           <div
             className='flex justify-center items-center ml-10 gap-1 '
